@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-#navbar {
-	background-color: #e5ab09;
-
-}
 body {
 	padding-top: 5rem;
+}
+
+#navbar {
+	background-color: #e5ab09;
 }
 
 .nav-link {
@@ -56,7 +56,6 @@ a:hover {
 footer > div > a:hover {
 	color: white;
 }
-
 
 .btn {
 	background-color:#e5ab09;
