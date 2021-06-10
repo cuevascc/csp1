@@ -5,7 +5,7 @@
 
 }
 body {
-	background-color:;
+	padding-top: 5rem;
 }
 
 .nav-link {
@@ -21,9 +21,9 @@ body {
 .section-title {
 	font-family: Pacifico;
 	background-color:#e5ab09;
-	text-indent: 1cm;
 	font-size: 250%;
 	text-align: center;
+	padding: 1rem;
 }
 
 #send-button {
@@ -44,4 +44,32 @@ a:hover {
 
 #pre-footer {
 	text-align: center;
+	background-color: #e5ab09;
+	padding: 5px;
+	margin-top: 40px;
 }
+
+#footer {
+	background-color:#e5ab09;
+}
+
+footer > div > a:hover {
+	color: white;
+}
+
+
+.btn {
+	background-color:#e5ab09;
+}
+
+#social-media {
+	margin-top: 0.5rem;
+	margin-right: 1rem;
+	margin-left: 1rem;
+	margin-bottom: 0.5rem;
+}
+
+.intro {
+	text-align: justify;
+}
+
