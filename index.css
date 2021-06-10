@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+#navbar {
+	background-color: #e5ab09;
+
+}
+body {
+	background-color:;
+}
+
+.nav-link {
+	color: #22180d;
+}
+
+#navbar-name {
+	font-family: Pacifico;
+	font-size: 30px;
+	color: #0f1a26;
+}
+
+.section-title {
+	font-family: Pacifico;
+	background-color:#e5ab09;
+	text-indent: 1cm;
+	font-size: 250%;
+	text-align: center;
+}
+
+#send-button {
+	background-color:#e5ab09 ;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: #22180d;
+}
+
+a:hover {
+	color: #e5ab09;
+}
+
+#pre-footer {
+	text-align: center;
+}
